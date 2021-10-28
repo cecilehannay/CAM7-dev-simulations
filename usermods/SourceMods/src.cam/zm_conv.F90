@@ -4599,9 +4599,9 @@ nit_lheat = 2 ! iterations for ds,dq changes from condensation freezing.
 !dmpdz=-1.e-3_r8       ! Entrainment rate. (-ve for /m)
 !dmpdz_lnd=-1.e-3_r8
 
-dmpdz=-0.8e-3_r8       ! Entrainment rate. (-ve for /m)                                                                                                                                                                                    
+dmpdz=-1.2e-3_r8       ! Entrainment rate. (-ve for /m)                                                                                                                                                                                    
 
-dmpdz_lnd=-0.8e-3_r8
+dmpdz_lnd=-1.2e-3_r8
 
 !--- hannay
 
